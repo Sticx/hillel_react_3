@@ -1,0 +1,17 @@
+.main {
+    background-color: #c3f238;
+    width: 100%;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+.main__title {
+    text-align: center;
+    margin: 20px 0 20px 0;
+    padding: 0;
+}
+
+.unvisibleTODO {
+    visibility: hidden;
+    position: absolute;
+}
